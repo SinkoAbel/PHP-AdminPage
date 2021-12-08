@@ -1,0 +1,34 @@
+
+.belepes_box {
+    padding: 20px;
+    margin: 10px;
+    border: #0a53be solid 2px; /*halmozott parancs: szín, border típus: most folyamatos vonal, és border vastagság*/
+    background-color: lightblue;
+    text-align: center;
+}
+
+.box1 {
+    background-color: lightgrey;
+    padding: 20px;
+    border: #0a53be solid 2px;
+    margin-bottom: 30px;
+}
+
+.felugro_statusz {
+    font-size: 19px;
+    margin: 0 0 30px 0;
+}
+
+.datum_sor {
+    background-color: royalblue;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cim_sor {
+    background-color: lightblue;
+    font-size: 17px;
+    font-weight: bold;
+}
+
